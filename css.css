@@ -1,0 +1,34 @@
+.test1{
+    color: brown;
+}
+.test{
+    color: red;
+}
+
+.test2{
+    color: sienna;
+
+}
+
+.test3{
+    text-decoration: line-through;
+}
+
+.test4{
+    background-color: yellow;
+}
+
+.test5{
+    text-decoration: underline;
+}
+.test6{
+    background-color: yellow;
+}
+#test{
+    background-color: yellow;
+}
+
+.test8{
+    color: brown;
+    letter-spacing: 3px;
+}
